@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ema Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="water">https://i5.walmartimages.com/asr/b5bc06f5-7208-4e64-ba92-7be43b474d16.5cbc4d93cd2d649a66a73b9e7250dc05.jpeg?odnHeight=768&amp;odnWidth=768&amp;odnBg=FFFFFF</string>
+    <string name="burger">https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/smash-burger-d13992.jpg</string>
+    <string name="bread">https://www.terhuneorchards.com/wp-content/uploads/2020/06/products-sourdough_boule__37011.1586982831.1000.1200.png</string>
+    <string name="main_title">Закажи домой любой товар!</string>
+</resources>

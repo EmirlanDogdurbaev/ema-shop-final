@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987375891342",
+    "project_id": "emashop-aecf3",
+    "storage_bucket": "emashop-aecf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987375891342:android:eeec0420467e8fcd292adf",
+        "android_client_info": {
+          "package_name": "com.kg.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrrVBiBrxSK5TYA61fLbp5nDoXk3Qnvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
